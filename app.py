@@ -1,7 +1,6 @@
-# app.py
-
 import streamlit as st
 import pandas as pd
+
 from config import config
 from core.data_processing import (
     load_and_compute_kg_per_ha,
@@ -14,12 +13,13 @@ from core.data_processing import (
     compute_species_count
 )
 from core.map_utils import build_choropleth_map
-import os
 
 def main():
-    st.title("Seeds potentiel per state and biome")
+    st.title("Seeds Potential per State and Biome")
 
-    # -- Widget Controls --
+    # --------------------------
+    # 1) Widget Controls
+    # --------------------------
     col1, col2 = st.columns(2)
     with col1:
         region_choice = st.radio(
@@ -59,12 +59,14 @@ def main():
         st.write("**Minimum species threshold for a project**")
         n_species = st.number_input(
             "Top N species",
-            value=5,
+            value=20,
             min_value=1,
             step=1
         )
 
-    # -- Pipeline Execution --
+    # --------------------------
+    # 2) Data Pipeline Execution (auto-runs on every widget change)
+    # --------------------------
     # 1) species data + kg/ha
     df_species_req = load_and_compute_kg_per_ha(
         config.SPECIES_DATA_CSV,
@@ -102,13 +104,20 @@ def main():
     df_map = pd.merge(df_threshold, df_count, on='regionkey', how='left')
     # => columns: [regionkey, Threshold_ha, NumSpeciesUsed, species_count]
 
-    st.subheader("Results")
+    # --------------------------
+    # 3) Display Table in Real Time
+    # --------------------------
+    st.subheader("Results Table (Real-Time)")
     st.dataframe(df_map.head(30))
 
-    # -- Build Map --
-    st.subheader("Map: Colored by number of species plantable per biome")
-    deck = build_choropleth_map(config.GEOJSON_FILE, df_map)
-    st.pydeck_chart(deck)
+    # --------------------------
+    # 4) On-Demand Map Generation
+    # --------------------------
+    if st.button("Show Map"):
+        st.subheader("Map: Colored by Number of Plantable Species per Biome")
+        deck = build_choropleth_map(config.GEOJSON_FILE, df_map)
+        st.pydeck_chart(deck)
+
 
 if __name__ == "__main__":
     main()

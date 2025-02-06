@@ -15,4 +15,4 @@ GEOJSON_FILE = os.path.join(DATA_DIR, "state_biome.geojson")
 # Default parameters
 DEFAULT_TARGET_DENSITY = 250000.0
 DEFAULT_CHUNK_SIZE = 30
-DEFAULT_SUPPLIERS = ["supplier_top", "supplier_2ry"]
+DEFAULT_SUPPLIERS = ["supplier_top"]
