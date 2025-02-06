@@ -107,7 +107,7 @@ def main():
     # --------------------------
     # 3) Display Table in Real Time
     # --------------------------
-    st.subheader("Results Table (Real-Time)")
+    st.subheader("Results table")
     st.dataframe(df_map.head(30))
 
     # --------------------------
