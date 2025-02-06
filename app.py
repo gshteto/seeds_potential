@@ -43,8 +43,8 @@ def main():
     col3, col4, col5 = st.columns(3)
     with col3:
         st.write("**Distribution**")
-        use_species_count = st.checkbox("Divide by species count?", value=True)
-        use_relative_area = st.checkbox("Use relative area?", value=True)
+        use_species_count = st.checkbox("Divide by species count?", value=False)
+        use_relative_area = st.checkbox("Use relative area?", value=False)
 
     with col4:
         st.write("**Target Density**")
