@@ -1,0 +1,964 @@
+STATE,BIOME,regionkey,Specie
+AC,Amazonia,ACAmazonia,Terminalia grandis
+AC,Amazonia,ACAmazonia,Hymenaea courbaril
+AC,Amazonia,ACAmazonia,Bixa orellana
+AC,Amazonia,ACAmazonia,Guazuma ulmifolia
+AC,Amazonia,ACAmazonia,Apeiba tibourbou
+AC,Amazonia,ACAmazonia,Handroanthus impetiginosus
+AC,Amazonia,ACAmazonia,Schizolobium parahyba var. amazonicum
+AC,Amazonia,ACAmazonia,Mabea fistulifera
+AC,Amazonia,ACAmazonia,Psidium guajava
+AC,Amazonia,ACAmazonia,Senegalia polyphylla
+AC,Amazonia,ACAmazonia,Spondias mombin
+AC,Amazonia,ACAmazonia,Senna alata
+AC,Amazonia,ACAmazonia,Trema micranthum
+AC,Amazonia,ACAmazonia,Samanea tubulosa
+AC,Amazonia,ACAmazonia,Solanum crinitum
+AC,Amazonia,ACAmazonia,Handroanthus serratifolius
+AC,Amazonia,ACAmazonia,Emmotum nitens
+AC,Amazonia,ACAmazonia,Enterolobium schomburgkii
+AC,Amazonia,ACAmazonia,Parkia multijuga
+AC,Amazonia,ACAmazonia,Apuleia leiocarpa
+AC,Amazonia,ACAmazonia,Parkia pendula
+AC,Amazonia,ACAmazonia,Hymenaea intermedia
+AC,Amazonia,ACAmazonia,Cedrela fissilis
+AC,Amazonia,ACAmazonia,Trattinnickia rhoifolia
+AL,Mata Atlantica,ALMata Atlantica,Hymenaea courbaril
+AL,Mata Atlantica,ALMata Atlantica,Bixa orellana
+AL,Mata Atlantica,ALMata Atlantica,Guazuma ulmifolia
+AL,Mata Atlantica,ALMata Atlantica,Cecropia pachystachya
+AL,Mata Atlantica,ALMata Atlantica,Apeiba tibourbou
+AL,Mata Atlantica,ALMata Atlantica,Astronium fraxinifolium
+AL,Mata Atlantica,ALMata Atlantica,Astronium urundeuva
+AL,Mata Atlantica,ALMata Atlantica,Handroanthus impetiginosus
+AL,Mata Atlantica,ALMata Atlantica,Psidium guajava
+AL,Mata Atlantica,ALMata Atlantica,Senegalia polyphylla
+AL,Mata Atlantica,ALMata Atlantica,Senna alata
+AL,Mata Atlantica,ALMata Atlantica,Trema micranthum
+AL,Mata Atlantica,ALMata Atlantica,Handroanthus serratifolius
+AL,Mata Atlantica,ALMata Atlantica,Psidium cattleyanum
+AL,Mata Atlantica,ALMata Atlantica,Apuleia leiocarpa
+AL,Mata Atlantica,ALMata Atlantica,Schinus terebinthifolia
+AL,Mata Atlantica,ALMata Atlantica,Pterogyne nitens
+AL,Mata Atlantica,ALMata Atlantica,Cedrela fissilis
+AL,Mata Atlantica,ALMata Atlantica,Andira fraxinifolia
+AM,Amazonia,AMAmazonia,Terminalia grandis
+AM,Amazonia,AMAmazonia,Terminalia tetraphylla
+AM,Amazonia,AMAmazonia,Hymenaea courbaril
+AM,Amazonia,AMAmazonia,Bixa orellana
+AM,Amazonia,AMAmazonia,Guazuma ulmifolia
+AM,Amazonia,AMAmazonia,Apeiba tibourbou
+AM,Amazonia,AMAmazonia,Schizolobium parahyba var. amazonicum
+AM,Amazonia,AMAmazonia,Mabea fistulifera
+AM,Amazonia,AMAmazonia,Psidium guajava
+AM,Amazonia,AMAmazonia,Senegalia polyphylla
+AM,Amazonia,AMAmazonia,Spondias mombin
+AM,Amazonia,AMAmazonia,Senna alata
+AM,Amazonia,AMAmazonia,Trema micranthum
+AM,Amazonia,AMAmazonia,Curatella americana
+AM,Amazonia,AMAmazonia,Samanea tubulosa
+AM,Amazonia,AMAmazonia,Tachigali vulgaris
+AM,Amazonia,AMAmazonia,Solanum crinitum
+AM,Amazonia,AMAmazonia,Handroanthus serratifolius
+AM,Amazonia,AMAmazonia,Emmotum nitens
+AM,Amazonia,AMAmazonia,Enterolobium schomburgkii
+AM,Amazonia,AMAmazonia,Parkia multijuga
+AM,Amazonia,AMAmazonia,Apuleia leiocarpa
+AM,Amazonia,AMAmazonia,Parkia pendula
+AM,Amazonia,AMAmazonia,Ormosia paraensis
+AM,Amazonia,AMAmazonia,Hymenaea intermedia
+AM,Amazonia,AMAmazonia,Cedrela fissilis
+AM,Amazonia,AMAmazonia,Trattinnickia rhoifolia
+AM,Amazonia,AMAmazonia,Copaifera martii
+AP,Amazonia,APAmazonia,Terminalia tetraphylla
+AP,Amazonia,APAmazonia,Hymenaea courbaril
+AP,Amazonia,APAmazonia,Bixa orellana
+AP,Amazonia,APAmazonia,Guazuma ulmifolia
+AP,Amazonia,APAmazonia,Apeiba tibourbou
+AP,Amazonia,APAmazonia,Mabea fistulifera
+AP,Amazonia,APAmazonia,Senegalia polyphylla
+AP,Amazonia,APAmazonia,Spondias mombin
+AP,Amazonia,APAmazonia,Senna alata
+AP,Amazonia,APAmazonia,Trema micranthum
+AP,Amazonia,APAmazonia,Curatella americana
+AP,Amazonia,APAmazonia,Solanum crinitum
+AP,Amazonia,APAmazonia,Handroanthus serratifolius
+AP,Amazonia,APAmazonia,Enterolobium schomburgkii
+AP,Amazonia,APAmazonia,Parkia pendula
+AP,Amazonia,APAmazonia,Ormosia paraensis
+AP,Amazonia,APAmazonia,Hymenaea intermedia
+AP,Amazonia,APAmazonia,Trattinnickia rhoifolia
+BA,Cerrado,BACerrado,Aristida riparia
+BA,Cerrado,BACerrado,Vernonanthura polyanthes
+BA,Cerrado,BACerrado,Aristida longifolia
+BA,Cerrado,BACerrado,Lepidaploa aurea
+BA,Cerrado,BACerrado,Schizachyrium sanguineum
+BA,Cerrado,BACerrado,Guazuma ulmifolia
+BA,Cerrado,BACerrado,Trachypogon spicatus
+BA,Cerrado,BACerrado,Astronium fraxinifolium
+BA,Cerrado,BACerrado,Astronium urundeuva
+BA,Cerrado,BACerrado,Copaifera langsdorffii
+BA,Cerrado,BACerrado,Enterolobium contortisiliquum
+BA,Cerrado,BACerrado,Loudetiopsis chrysothrix
+BA,Cerrado,BACerrado,Senegalia polyphylla
+BA,Cerrado,BACerrado,Hymenaea stigonocarpa
+BA,Cerrado,BACerrado,Dipteryx alata
+BA,Cerrado,BACerrado,Eremanthus uniflorus
+BA,Cerrado,BACerrado,Machaerium opacum
+BA,Cerrado,BACerrado,Anadenanthera colubrina
+BA,Cerrado,BACerrado,Senna alata
+BA,Cerrado,BACerrado,Terminalia argentea
+BA,Cerrado,BACerrado,Byrsonima cydoniifolia
+BA,Cerrado,BACerrado,Tachigali vulgaris
+BA,Cerrado,BACerrado,Combretum duarteanum
+BA,Cerrado,BACerrado,Emmotum nitens
+BA,Cerrado,BACerrado,Terminalia corrugata
+BA,Cerrado,BACerrado,Magonia pubescens
+BA,Cerrado,BACerrado,Handroanthus ochraceus
+BA,Cerrado,BACerrado,Caryocar brasiliense
+BA,Cerrado,BACerrado,Solanum lycocarpum
+BA,Cerrado,BACerrado,Pterogyne nitens
+BA,Cerrado,BACerrado,Tachigali aurea
+BA,Cerrado,BACerrado,Simarouba versicolor
+BA,Cerrado,BACerrado,Anadenanthera peregrina
+BA,Cerrado,BACerrado,Dalbergia miscolobium
+BA,Cerrado,BACerrado,Dimorphandra mollis
+BA,Cerrado,BACerrado,Terminalia fagifolia
+BA,Mata Atlantica,BAMata Atlantica,Hymenaea courbaril
+BA,Mata Atlantica,BAMata Atlantica,Bixa orellana
+BA,Mata Atlantica,BAMata Atlantica,Guazuma ulmifolia
+BA,Mata Atlantica,BAMata Atlantica,Cecropia pachystachya
+BA,Mata Atlantica,BAMata Atlantica,Apeiba tibourbou
+BA,Mata Atlantica,BAMata Atlantica,Astronium fraxinifolium
+BA,Mata Atlantica,BAMata Atlantica,Astronium urundeuva
+BA,Mata Atlantica,BAMata Atlantica,Handroanthus impetiginosus
+BA,Mata Atlantica,BAMata Atlantica,Copaifera langsdorffii
+BA,Mata Atlantica,BAMata Atlantica,Enterolobium contortisiliquum
+BA,Mata Atlantica,BAMata Atlantica,Maclura tinctoria
+BA,Mata Atlantica,BAMata Atlantica,Mabea fistulifera
+BA,Mata Atlantica,BAMata Atlantica,Enterolobium timbouva
+BA,Mata Atlantica,BAMata Atlantica,Psidium guajava
+BA,Mata Atlantica,BAMata Atlantica,Senegalia polyphylla
+BA,Mata Atlantica,BAMata Atlantica,Ceiba speciosa
+BA,Mata Atlantica,BAMata Atlantica,Anadenanthera colubrina
+BA,Mata Atlantica,BAMata Atlantica,Senna alata
+BA,Mata Atlantica,BAMata Atlantica,Trema micranthum
+BA,Mata Atlantica,BAMata Atlantica,Handroanthus serratifolius
+BA,Mata Atlantica,BAMata Atlantica,Emmotum nitens
+BA,Mata Atlantica,BAMata Atlantica,Psidium cattleyanum
+BA,Mata Atlantica,BAMata Atlantica,Handroanthus ochraceus
+BA,Mata Atlantica,BAMata Atlantica,Schizolobium parahyba var. parahyba
+BA,Mata Atlantica,BAMata Atlantica,Apuleia leiocarpa
+BA,Mata Atlantica,BAMata Atlantica,Schinus terebinthifolia
+BA,Mata Atlantica,BAMata Atlantica,Pterogyne nitens
+BA,Mata Atlantica,BAMata Atlantica,Anadenanthera peregrina
+BA,Mata Atlantica,BAMata Atlantica,Cedrela fissilis
+BA,Mata Atlantica,BAMata Atlantica,Syagrus romanzoffiana
+BA,Mata Atlantica,BAMata Atlantica,Andira fraxinifolia
+DF,Cerrado,DFCerrado,Aristida riparia
+DF,Cerrado,DFCerrado,Aristida longifolia
+DF,Cerrado,DFCerrado,Lepidaploa aurea
+DF,Cerrado,DFCerrado,Schizachyrium sanguineum
+DF,Cerrado,DFCerrado,Guazuma ulmifolia
+DF,Cerrado,DFCerrado,Trachypogon spicatus
+DF,Cerrado,DFCerrado,Astronium fraxinifolium
+DF,Cerrado,DFCerrado,Astronium urundeuva
+DF,Cerrado,DFCerrado,Copaifera langsdorffii
+DF,Cerrado,DFCerrado,Enterolobium contortisiliquum
+DF,Cerrado,DFCerrado,Loudetiopsis chrysothrix
+DF,Cerrado,DFCerrado,Senegalia polyphylla
+DF,Cerrado,DFCerrado,Hymenaea stigonocarpa
+DF,Cerrado,DFCerrado,Dipteryx alata
+DF,Cerrado,DFCerrado,Machaerium opacum
+DF,Cerrado,DFCerrado,Anadenanthera colubrina
+DF,Cerrado,DFCerrado,Senna alata
+DF,Cerrado,DFCerrado,Terminalia argentea
+DF,Cerrado,DFCerrado,Byrsonima cydoniifolia
+DF,Cerrado,DFCerrado,Tachigali vulgaris
+DF,Cerrado,DFCerrado,Combretum duarteanum
+DF,Cerrado,DFCerrado,Emmotum nitens
+DF,Cerrado,DFCerrado,Terminalia corrugata
+DF,Cerrado,DFCerrado,Magonia pubescens
+DF,Cerrado,DFCerrado,Handroanthus ochraceus
+DF,Cerrado,DFCerrado,Caryocar brasiliense
+DF,Cerrado,DFCerrado,Solanum lycocarpum
+DF,Cerrado,DFCerrado,Tachigali aurea
+DF,Cerrado,DFCerrado,Simarouba versicolor
+DF,Cerrado,DFCerrado,Anadenanthera peregrina
+DF,Cerrado,DFCerrado,Dalbergia miscolobium
+DF,Cerrado,DFCerrado,Dimorphandra mollis
+DF,Cerrado,DFCerrado,Terminalia fagifolia
+ES,Mata Atlantica,ESMata Atlantica,Hymenaea courbaril
+ES,Mata Atlantica,ESMata Atlantica,Bixa orellana
+ES,Mata Atlantica,ESMata Atlantica,Guazuma ulmifolia
+ES,Mata Atlantica,ESMata Atlantica,Cecropia pachystachya
+ES,Mata Atlantica,ESMata Atlantica,Apeiba tibourbou
+ES,Mata Atlantica,ESMata Atlantica,Astronium urundeuva
+ES,Mata Atlantica,ESMata Atlantica,Handroanthus impetiginosus
+ES,Mata Atlantica,ESMata Atlantica,Copaifera langsdorffii
+ES,Mata Atlantica,ESMata Atlantica,Enterolobium contortisiliquum
+ES,Mata Atlantica,ESMata Atlantica,Maclura tinctoria
+ES,Mata Atlantica,ESMata Atlantica,Mabea fistulifera
+ES,Mata Atlantica,ESMata Atlantica,Psidium guajava
+ES,Mata Atlantica,ESMata Atlantica,Senegalia polyphylla
+ES,Mata Atlantica,ESMata Atlantica,Ceiba speciosa
+ES,Mata Atlantica,ESMata Atlantica,Senna alata
+ES,Mata Atlantica,ESMata Atlantica,Trema micranthum
+ES,Mata Atlantica,ESMata Atlantica,Handroanthus serratifolius
+ES,Mata Atlantica,ESMata Atlantica,Psidium cattleyanum
+ES,Mata Atlantica,ESMata Atlantica,Handroanthus ochraceus
+ES,Mata Atlantica,ESMata Atlantica,Schizolobium parahyba var. parahyba
+ES,Mata Atlantica,ESMata Atlantica,Apuleia leiocarpa
+ES,Mata Atlantica,ESMata Atlantica,Schinus terebinthifolia
+ES,Mata Atlantica,ESMata Atlantica,Pterogyne nitens
+ES,Mata Atlantica,ESMata Atlantica,Cedrela fissilis
+ES,Mata Atlantica,ESMata Atlantica,Syagrus romanzoffiana
+ES,Mata Atlantica,ESMata Atlantica,Andira fraxinifolia
+GO,Cerrado,GOCerrado,Aristida riparia
+GO,Cerrado,GOCerrado,Aristida longifolia
+GO,Cerrado,GOCerrado,Lepidaploa aurea
+GO,Cerrado,GOCerrado,Schizachyrium sanguineum
+GO,Cerrado,GOCerrado,Guazuma ulmifolia
+GO,Cerrado,GOCerrado,Trachypogon spicatus
+GO,Cerrado,GOCerrado,Astronium fraxinifolium
+GO,Cerrado,GOCerrado,Astronium urundeuva
+GO,Cerrado,GOCerrado,Copaifera langsdorffii
+GO,Cerrado,GOCerrado,Enterolobium contortisiliquum
+GO,Cerrado,GOCerrado,Loudetiopsis chrysothrix
+GO,Cerrado,GOCerrado,Senegalia polyphylla
+GO,Cerrado,GOCerrado,Hymenaea stigonocarpa
+GO,Cerrado,GOCerrado,Dipteryx alata
+GO,Cerrado,GOCerrado,Eremanthus uniflorus
+GO,Cerrado,GOCerrado,Machaerium opacum
+GO,Cerrado,GOCerrado,Anadenanthera colubrina
+GO,Cerrado,GOCerrado,Senna alata
+GO,Cerrado,GOCerrado,Terminalia argentea
+GO,Cerrado,GOCerrado,Byrsonima cydoniifolia
+GO,Cerrado,GOCerrado,Tachigali vulgaris
+GO,Cerrado,GOCerrado,Combretum duarteanum
+GO,Cerrado,GOCerrado,Emmotum nitens
+GO,Cerrado,GOCerrado,Terminalia corrugata
+GO,Cerrado,GOCerrado,Magonia pubescens
+GO,Cerrado,GOCerrado,Handroanthus ochraceus
+GO,Cerrado,GOCerrado,Caryocar brasiliense
+GO,Cerrado,GOCerrado,Solanum lycocarpum
+GO,Cerrado,GOCerrado,Pterogyne nitens
+GO,Cerrado,GOCerrado,Tachigali aurea
+GO,Cerrado,GOCerrado,Simarouba versicolor
+GO,Cerrado,GOCerrado,Anadenanthera peregrina
+GO,Cerrado,GOCerrado,Dalbergia miscolobium
+GO,Cerrado,GOCerrado,Dimorphandra mollis
+GO,Cerrado,GOCerrado,Terminalia fagifolia
+GO,Mata Atlantica,GOMata Atlantica,Hymenaea courbaril
+GO,Mata Atlantica,GOMata Atlantica,Bixa orellana
+GO,Mata Atlantica,GOMata Atlantica,Guazuma ulmifolia
+GO,Mata Atlantica,GOMata Atlantica,Cecropia pachystachya
+GO,Mata Atlantica,GOMata Atlantica,Apeiba tibourbou
+GO,Mata Atlantica,GOMata Atlantica,Astronium fraxinifolium
+GO,Mata Atlantica,GOMata Atlantica,Astronium urundeuva
+GO,Mata Atlantica,GOMata Atlantica,Handroanthus impetiginosus
+GO,Mata Atlantica,GOMata Atlantica,Copaifera langsdorffii
+GO,Mata Atlantica,GOMata Atlantica,Enterolobium contortisiliquum
+GO,Mata Atlantica,GOMata Atlantica,Maclura tinctoria
+GO,Mata Atlantica,GOMata Atlantica,Mabea fistulifera
+GO,Mata Atlantica,GOMata Atlantica,Enterolobium timbouva
+GO,Mata Atlantica,GOMata Atlantica,Senegalia polyphylla
+GO,Mata Atlantica,GOMata Atlantica,Ceiba speciosa
+GO,Mata Atlantica,GOMata Atlantica,Anadenanthera colubrina
+GO,Mata Atlantica,GOMata Atlantica,Senna alata
+GO,Mata Atlantica,GOMata Atlantica,Trema micranthum
+GO,Mata Atlantica,GOMata Atlantica,Samanea tubulosa
+GO,Mata Atlantica,GOMata Atlantica,Handroanthus serratifolius
+GO,Mata Atlantica,GOMata Atlantica,Emmotum nitens
+GO,Mata Atlantica,GOMata Atlantica,Handroanthus ochraceus
+GO,Mata Atlantica,GOMata Atlantica,Schizolobium parahyba var. parahyba
+GO,Mata Atlantica,GOMata Atlantica,Apuleia leiocarpa
+GO,Mata Atlantica,GOMata Atlantica,Schinus terebinthifolia
+GO,Mata Atlantica,GOMata Atlantica,Pterogyne nitens
+GO,Mata Atlantica,GOMata Atlantica,Anadenanthera peregrina
+GO,Mata Atlantica,GOMata Atlantica,Cedrela fissilis
+GO,Mata Atlantica,GOMata Atlantica,Syagrus romanzoffiana
+GO,Mata Atlantica,GOMata Atlantica,Andira fraxinifolia
+MA,Amazonia,MAAmazonia,Terminalia grandis
+MA,Amazonia,MAAmazonia,Terminalia tetraphylla
+MA,Amazonia,MAAmazonia,Hymenaea courbaril
+MA,Amazonia,MAAmazonia,Bixa orellana
+MA,Amazonia,MAAmazonia,Guazuma ulmifolia
+MA,Amazonia,MAAmazonia,Cecropia pachystachya
+MA,Amazonia,MAAmazonia,Apeiba tibourbou
+MA,Amazonia,MAAmazonia,Astronium fraxinifolium
+MA,Amazonia,MAAmazonia,Handroanthus impetiginosus
+MA,Amazonia,MAAmazonia,Mabea fistulifera
+MA,Amazonia,MAAmazonia,Psidium guajava
+MA,Amazonia,MAAmazonia,Senegalia polyphylla
+MA,Amazonia,MAAmazonia,Spondias mombin
+MA,Amazonia,MAAmazonia,Senna alata
+MA,Amazonia,MAAmazonia,Trema micranthum
+MA,Amazonia,MAAmazonia,Curatella americana
+MA,Amazonia,MAAmazonia,Samanea tubulosa
+MA,Amazonia,MAAmazonia,Tachigali vulgaris
+MA,Amazonia,MAAmazonia,Solanum crinitum
+MA,Amazonia,MAAmazonia,Handroanthus serratifolius
+MA,Amazonia,MAAmazonia,Emmotum nitens
+MA,Amazonia,MAAmazonia,Enterolobium schomburgkii
+MA,Amazonia,MAAmazonia,Parkia multijuga
+MA,Amazonia,MAAmazonia,Apuleia leiocarpa
+MA,Amazonia,MAAmazonia,Parkia pendula
+MA,Amazonia,MAAmazonia,Ormosia paraensis
+MA,Amazonia,MAAmazonia,Cedrela fissilis
+MA,Amazonia,MAAmazonia,Copaifera martii
+MA,Cerrado,MACerrado,Aristida riparia
+MA,Cerrado,MACerrado,Aristida longifolia
+MA,Cerrado,MACerrado,Schizachyrium sanguineum
+MA,Cerrado,MACerrado,Guazuma ulmifolia
+MA,Cerrado,MACerrado,Trachypogon spicatus
+MA,Cerrado,MACerrado,Astronium fraxinifolium
+MA,Cerrado,MACerrado,Astronium urundeuva
+MA,Cerrado,MACerrado,Copaifera langsdorffii
+MA,Cerrado,MACerrado,Loudetiopsis chrysothrix
+MA,Cerrado,MACerrado,Senegalia polyphylla
+MA,Cerrado,MACerrado,Hymenaea stigonocarpa
+MA,Cerrado,MACerrado,Dipteryx alata
+MA,Cerrado,MACerrado,Senna alata
+MA,Cerrado,MACerrado,Byrsonima cydoniifolia
+MA,Cerrado,MACerrado,Tachigali vulgaris
+MA,Cerrado,MACerrado,Combretum duarteanum
+MA,Cerrado,MACerrado,Emmotum nitens
+MA,Cerrado,MACerrado,Terminalia corrugata
+MA,Cerrado,MACerrado,Magonia pubescens
+MA,Cerrado,MACerrado,Handroanthus ochraceus
+MA,Cerrado,MACerrado,Caryocar brasiliense
+MA,Cerrado,MACerrado,Tachigali aurea
+MA,Cerrado,MACerrado,Simarouba versicolor
+MA,Cerrado,MACerrado,Dalbergia miscolobium
+MA,Cerrado,MACerrado,Dimorphandra mollis
+MA,Cerrado,MACerrado,Terminalia fagifolia
+MG,Cerrado,MGCerrado,Aristida riparia
+MG,Cerrado,MGCerrado,Vernonanthura polyanthes
+MG,Cerrado,MGCerrado,Aristida longifolia
+MG,Cerrado,MGCerrado,Lepidaploa aurea
+MG,Cerrado,MGCerrado,Schizachyrium sanguineum
+MG,Cerrado,MGCerrado,Guazuma ulmifolia
+MG,Cerrado,MGCerrado,Trachypogon spicatus
+MG,Cerrado,MGCerrado,Astronium fraxinifolium
+MG,Cerrado,MGCerrado,Astronium urundeuva
+MG,Cerrado,MGCerrado,Copaifera langsdorffii
+MG,Cerrado,MGCerrado,Enterolobium contortisiliquum
+MG,Cerrado,MGCerrado,Loudetiopsis chrysothrix
+MG,Cerrado,MGCerrado,Senegalia polyphylla
+MG,Cerrado,MGCerrado,Hymenaea stigonocarpa
+MG,Cerrado,MGCerrado,Dipteryx alata
+MG,Cerrado,MGCerrado,Machaerium opacum
+MG,Cerrado,MGCerrado,Anadenanthera colubrina
+MG,Cerrado,MGCerrado,Senna alata
+MG,Cerrado,MGCerrado,Terminalia argentea
+MG,Cerrado,MGCerrado,Byrsonima cydoniifolia
+MG,Cerrado,MGCerrado,Tachigali vulgaris
+MG,Cerrado,MGCerrado,Combretum duarteanum
+MG,Cerrado,MGCerrado,Emmotum nitens
+MG,Cerrado,MGCerrado,Terminalia corrugata
+MG,Cerrado,MGCerrado,Magonia pubescens
+MG,Cerrado,MGCerrado,Handroanthus ochraceus
+MG,Cerrado,MGCerrado,Caryocar brasiliense
+MG,Cerrado,MGCerrado,Solanum lycocarpum
+MG,Cerrado,MGCerrado,Pterogyne nitens
+MG,Cerrado,MGCerrado,Tachigali aurea
+MG,Cerrado,MGCerrado,Simarouba versicolor
+MG,Cerrado,MGCerrado,Anadenanthera peregrina
+MG,Cerrado,MGCerrado,Dalbergia miscolobium
+MG,Cerrado,MGCerrado,Dimorphandra mollis
+MG,Cerrado,MGCerrado,Terminalia fagifolia
+MG,Mata Atlantica,MGMata Atlantica,Hymenaea courbaril
+MG,Mata Atlantica,MGMata Atlantica,Bixa orellana
+MG,Mata Atlantica,MGMata Atlantica,Guazuma ulmifolia
+MG,Mata Atlantica,MGMata Atlantica,Cecropia pachystachya
+MG,Mata Atlantica,MGMata Atlantica,Apeiba tibourbou
+MG,Mata Atlantica,MGMata Atlantica,Astronium fraxinifolium
+MG,Mata Atlantica,MGMata Atlantica,Astronium urundeuva
+MG,Mata Atlantica,MGMata Atlantica,Handroanthus impetiginosus
+MG,Mata Atlantica,MGMata Atlantica,Copaifera langsdorffii
+MG,Mata Atlantica,MGMata Atlantica,Enterolobium contortisiliquum
+MG,Mata Atlantica,MGMata Atlantica,Maclura tinctoria
+MG,Mata Atlantica,MGMata Atlantica,Mabea fistulifera
+MG,Mata Atlantica,MGMata Atlantica,Enterolobium timbouva
+MG,Mata Atlantica,MGMata Atlantica,Psidium guajava
+MG,Mata Atlantica,MGMata Atlantica,Senegalia polyphylla
+MG,Mata Atlantica,MGMata Atlantica,Ceiba speciosa
+MG,Mata Atlantica,MGMata Atlantica,Anadenanthera colubrina
+MG,Mata Atlantica,MGMata Atlantica,Senna alata
+MG,Mata Atlantica,MGMata Atlantica,Trema micranthum
+MG,Mata Atlantica,MGMata Atlantica,Handroanthus serratifolius
+MG,Mata Atlantica,MGMata Atlantica,Emmotum nitens
+MG,Mata Atlantica,MGMata Atlantica,Psidium cattleyanum
+MG,Mata Atlantica,MGMata Atlantica,Handroanthus ochraceus
+MG,Mata Atlantica,MGMata Atlantica,Schizolobium parahyba var. parahyba
+MG,Mata Atlantica,MGMata Atlantica,Apuleia leiocarpa
+MG,Mata Atlantica,MGMata Atlantica,Schinus terebinthifolia
+MG,Mata Atlantica,MGMata Atlantica,Pterogyne nitens
+MG,Mata Atlantica,MGMata Atlantica,Anadenanthera peregrina
+MG,Mata Atlantica,MGMata Atlantica,Cedrela fissilis
+MG,Mata Atlantica,MGMata Atlantica,Syagrus romanzoffiana
+MG,Mata Atlantica,MGMata Atlantica,Andira fraxinifolia
+MS,Cerrado,MSCerrado,Aristida riparia
+MS,Cerrado,MSCerrado,Aristida longifolia
+MS,Cerrado,MSCerrado,Schizachyrium sanguineum
+MS,Cerrado,MSCerrado,Guazuma ulmifolia
+MS,Cerrado,MSCerrado,Trachypogon spicatus
+MS,Cerrado,MSCerrado,Astronium fraxinifolium
+MS,Cerrado,MSCerrado,Astronium urundeuva
+MS,Cerrado,MSCerrado,Copaifera langsdorffii
+MS,Cerrado,MSCerrado,Enterolobium contortisiliquum
+MS,Cerrado,MSCerrado,Loudetiopsis chrysothrix
+MS,Cerrado,MSCerrado,Senegalia polyphylla
+MS,Cerrado,MSCerrado,Hymenaea stigonocarpa
+MS,Cerrado,MSCerrado,Dipteryx alata
+MS,Cerrado,MSCerrado,Anadenanthera colubrina
+MS,Cerrado,MSCerrado,Senna alata
+MS,Cerrado,MSCerrado,Terminalia argentea
+MS,Cerrado,MSCerrado,Byrsonima cydoniifolia
+MS,Cerrado,MSCerrado,Tachigali vulgaris
+MS,Cerrado,MSCerrado,Combretum duarteanum
+MS,Cerrado,MSCerrado,Terminalia corrugata
+MS,Cerrado,MSCerrado,Magonia pubescens
+MS,Cerrado,MSCerrado,Handroanthus ochraceus
+MS,Cerrado,MSCerrado,Caryocar brasiliense
+MS,Cerrado,MSCerrado,Solanum lycocarpum
+MS,Cerrado,MSCerrado,Pterogyne nitens
+MS,Cerrado,MSCerrado,Tachigali aurea
+MS,Cerrado,MSCerrado,Simarouba versicolor
+MS,Cerrado,MSCerrado,Anadenanthera peregrina
+MS,Cerrado,MSCerrado,Dalbergia miscolobium
+MS,Cerrado,MSCerrado,Dimorphandra mollis
+MS,Cerrado,MSCerrado,Terminalia fagifolia
+MS,Mata Atlantica,MSMata Atlantica,Hymenaea courbaril
+MS,Mata Atlantica,MSMata Atlantica,Bixa orellana
+MS,Mata Atlantica,MSMata Atlantica,Guazuma ulmifolia
+MS,Mata Atlantica,MSMata Atlantica,Cecropia pachystachya
+MS,Mata Atlantica,MSMata Atlantica,Apeiba tibourbou
+MS,Mata Atlantica,MSMata Atlantica,Astronium fraxinifolium
+MS,Mata Atlantica,MSMata Atlantica,Astronium urundeuva
+MS,Mata Atlantica,MSMata Atlantica,Handroanthus impetiginosus
+MS,Mata Atlantica,MSMata Atlantica,Copaifera langsdorffii
+MS,Mata Atlantica,MSMata Atlantica,Enterolobium contortisiliquum
+MS,Mata Atlantica,MSMata Atlantica,Maclura tinctoria
+MS,Mata Atlantica,MSMata Atlantica,Mabea fistulifera
+MS,Mata Atlantica,MSMata Atlantica,Enterolobium timbouva
+MS,Mata Atlantica,MSMata Atlantica,Psidium guajava
+MS,Mata Atlantica,MSMata Atlantica,Senegalia polyphylla
+MS,Mata Atlantica,MSMata Atlantica,Ceiba speciosa
+MS,Mata Atlantica,MSMata Atlantica,Anadenanthera colubrina
+MS,Mata Atlantica,MSMata Atlantica,Senna alata
+MS,Mata Atlantica,MSMata Atlantica,Trema micranthum
+MS,Mata Atlantica,MSMata Atlantica,Samanea tubulosa
+MS,Mata Atlantica,MSMata Atlantica,Handroanthus serratifolius
+MS,Mata Atlantica,MSMata Atlantica,Handroanthus ochraceus
+MS,Mata Atlantica,MSMata Atlantica,Apuleia leiocarpa
+MS,Mata Atlantica,MSMata Atlantica,Schinus terebinthifolia
+MS,Mata Atlantica,MSMata Atlantica,Pterogyne nitens
+MS,Mata Atlantica,MSMata Atlantica,Anadenanthera peregrina
+MS,Mata Atlantica,MSMata Atlantica,Cedrela fissilis
+MS,Mata Atlantica,MSMata Atlantica,Syagrus romanzoffiana
+MS,Mata Atlantica,MSMata Atlantica,Andira fraxinifolia
+MT,Amazonia,MTAmazonia,Terminalia tetraphylla
+MT,Amazonia,MTAmazonia,Hymenaea courbaril
+MT,Amazonia,MTAmazonia,Bixa orellana
+MT,Amazonia,MTAmazonia,Guazuma ulmifolia
+MT,Amazonia,MTAmazonia,Cecropia pachystachya
+MT,Amazonia,MTAmazonia,Apeiba tibourbou
+MT,Amazonia,MTAmazonia,Astronium fraxinifolium
+MT,Amazonia,MTAmazonia,Handroanthus impetiginosus
+MT,Amazonia,MTAmazonia,Schizolobium parahyba var. amazonicum
+MT,Amazonia,MTAmazonia,Mabea fistulifera
+MT,Amazonia,MTAmazonia,Psidium guajava
+MT,Amazonia,MTAmazonia,Senegalia polyphylla
+MT,Amazonia,MTAmazonia,Spondias mombin
+MT,Amazonia,MTAmazonia,Ceiba speciosa
+MT,Amazonia,MTAmazonia,Senna alata
+MT,Amazonia,MTAmazonia,Trema micranthum
+MT,Amazonia,MTAmazonia,Curatella americana
+MT,Amazonia,MTAmazonia,Samanea tubulosa
+MT,Amazonia,MTAmazonia,Tachigali vulgaris
+MT,Amazonia,MTAmazonia,Solanum crinitum
+MT,Amazonia,MTAmazonia,Handroanthus serratifolius
+MT,Amazonia,MTAmazonia,Emmotum nitens
+MT,Amazonia,MTAmazonia,Enterolobium schomburgkii
+MT,Amazonia,MTAmazonia,Parkia multijuga
+MT,Amazonia,MTAmazonia,Apuleia leiocarpa
+MT,Amazonia,MTAmazonia,Parkia pendula
+MT,Amazonia,MTAmazonia,Ormosia paraensis
+MT,Amazonia,MTAmazonia,Hymenaea intermedia
+MT,Amazonia,MTAmazonia,Cedrela fissilis
+MT,Cerrado,MTCerrado,Aristida riparia
+MT,Cerrado,MTCerrado,Aristida longifolia
+MT,Cerrado,MTCerrado,Lepidaploa aurea
+MT,Cerrado,MTCerrado,Schizachyrium sanguineum
+MT,Cerrado,MTCerrado,Guazuma ulmifolia
+MT,Cerrado,MTCerrado,Trachypogon spicatus
+MT,Cerrado,MTCerrado,Astronium fraxinifolium
+MT,Cerrado,MTCerrado,Astronium urundeuva
+MT,Cerrado,MTCerrado,Copaifera langsdorffii
+MT,Cerrado,MTCerrado,Enterolobium contortisiliquum
+MT,Cerrado,MTCerrado,Loudetiopsis chrysothrix
+MT,Cerrado,MTCerrado,Senegalia polyphylla
+MT,Cerrado,MTCerrado,Hymenaea stigonocarpa
+MT,Cerrado,MTCerrado,Dipteryx alata
+MT,Cerrado,MTCerrado,Eremanthus uniflorus
+MT,Cerrado,MTCerrado,Anadenanthera colubrina
+MT,Cerrado,MTCerrado,Senna alata
+MT,Cerrado,MTCerrado,Terminalia argentea
+MT,Cerrado,MTCerrado,Byrsonima cydoniifolia
+MT,Cerrado,MTCerrado,Tachigali vulgaris
+MT,Cerrado,MTCerrado,Combretum duarteanum
+MT,Cerrado,MTCerrado,Emmotum nitens
+MT,Cerrado,MTCerrado,Terminalia corrugata
+MT,Cerrado,MTCerrado,Magonia pubescens
+MT,Cerrado,MTCerrado,Handroanthus ochraceus
+MT,Cerrado,MTCerrado,Caryocar brasiliense
+MT,Cerrado,MTCerrado,Solanum lycocarpum
+MT,Cerrado,MTCerrado,Pterogyne nitens
+MT,Cerrado,MTCerrado,Tachigali aurea
+MT,Cerrado,MTCerrado,Simarouba versicolor
+MT,Cerrado,MTCerrado,Anadenanthera peregrina
+MT,Cerrado,MTCerrado,Dalbergia miscolobium
+MT,Cerrado,MTCerrado,Dimorphandra mollis
+MT,Cerrado,MTCerrado,Terminalia fagifolia
+PA,Amazonia,PAAmazonia,Terminalia grandis
+PA,Amazonia,PAAmazonia,Terminalia tetraphylla
+PA,Amazonia,PAAmazonia,Hymenaea courbaril
+PA,Amazonia,PAAmazonia,Bixa orellana
+PA,Amazonia,PAAmazonia,Guazuma ulmifolia
+PA,Amazonia,PAAmazonia,Cecropia pachystachya
+PA,Amazonia,PAAmazonia,Apeiba tibourbou
+PA,Amazonia,PAAmazonia,Astronium fraxinifolium
+PA,Amazonia,PAAmazonia,Handroanthus impetiginosus
+PA,Amazonia,PAAmazonia,Schizolobium parahyba var. amazonicum
+PA,Amazonia,PAAmazonia,Mabea fistulifera
+PA,Amazonia,PAAmazonia,Senegalia polyphylla
+PA,Amazonia,PAAmazonia,Spondias mombin
+PA,Amazonia,PAAmazonia,Ceiba speciosa
+PA,Amazonia,PAAmazonia,Senna alata
+PA,Amazonia,PAAmazonia,Trema micranthum
+PA,Amazonia,PAAmazonia,Curatella americana
+PA,Amazonia,PAAmazonia,Samanea tubulosa
+PA,Amazonia,PAAmazonia,Tachigali vulgaris
+PA,Amazonia,PAAmazonia,Solanum crinitum
+PA,Amazonia,PAAmazonia,Handroanthus serratifolius
+PA,Amazonia,PAAmazonia,Emmotum nitens
+PA,Amazonia,PAAmazonia,Enterolobium schomburgkii
+PA,Amazonia,PAAmazonia,Parkia multijuga
+PA,Amazonia,PAAmazonia,Apuleia leiocarpa
+PA,Amazonia,PAAmazonia,Parkia pendula
+PA,Amazonia,PAAmazonia,Ormosia paraensis
+PA,Amazonia,PAAmazonia,Hymenaea intermedia
+PA,Amazonia,PAAmazonia,Cedrela fissilis
+PA,Amazonia,PAAmazonia,Trattinnickia rhoifolia
+PA,Amazonia,PAAmazonia,Copaifera martii
+PA,Cerrado,PACerrado,Aristida longifolia
+PA,Cerrado,PACerrado,Schizachyrium sanguineum
+PA,Cerrado,PACerrado,Guazuma ulmifolia
+PA,Cerrado,PACerrado,Trachypogon spicatus
+PA,Cerrado,PACerrado,Astronium fraxinifolium
+PA,Cerrado,PACerrado,Astronium urundeuva
+PA,Cerrado,PACerrado,Loudetiopsis chrysothrix
+PA,Cerrado,PACerrado,Senegalia polyphylla
+PA,Cerrado,PACerrado,Hymenaea stigonocarpa
+PA,Cerrado,PACerrado,Senna alata
+PA,Cerrado,PACerrado,Terminalia argentea
+PA,Cerrado,PACerrado,Tachigali vulgaris
+PA,Cerrado,PACerrado,Combretum duarteanum
+PA,Cerrado,PACerrado,Emmotum nitens
+PA,Cerrado,PACerrado,Terminalia corrugata
+PA,Cerrado,PACerrado,Handroanthus ochraceus
+PA,Cerrado,PACerrado,Caryocar brasiliense
+PA,Cerrado,PACerrado,Anadenanthera peregrina
+PA,Cerrado,PACerrado,Dimorphandra mollis
+PB,Mata Atlantica,PBMata Atlantica,Hymenaea courbaril
+PB,Mata Atlantica,PBMata Atlantica,Bixa orellana
+PB,Mata Atlantica,PBMata Atlantica,Guazuma ulmifolia
+PB,Mata Atlantica,PBMata Atlantica,Cecropia pachystachya
+PB,Mata Atlantica,PBMata Atlantica,Apeiba tibourbou
+PB,Mata Atlantica,PBMata Atlantica,Astronium fraxinifolium
+PB,Mata Atlantica,PBMata Atlantica,Astronium urundeuva
+PB,Mata Atlantica,PBMata Atlantica,Handroanthus impetiginosus
+PB,Mata Atlantica,PBMata Atlantica,Copaifera langsdorffii
+PB,Mata Atlantica,PBMata Atlantica,Enterolobium contortisiliquum
+PB,Mata Atlantica,PBMata Atlantica,Maclura tinctoria
+PB,Mata Atlantica,PBMata Atlantica,Enterolobium timbouva
+PB,Mata Atlantica,PBMata Atlantica,Senegalia polyphylla
+PB,Mata Atlantica,PBMata Atlantica,Ceiba speciosa
+PB,Mata Atlantica,PBMata Atlantica,Anadenanthera colubrina
+PB,Mata Atlantica,PBMata Atlantica,Senna alata
+PB,Mata Atlantica,PBMata Atlantica,Trema micranthum
+PB,Mata Atlantica,PBMata Atlantica,Handroanthus serratifolius
+PB,Mata Atlantica,PBMata Atlantica,Handroanthus ochraceus
+PB,Mata Atlantica,PBMata Atlantica,Apuleia leiocarpa
+PB,Mata Atlantica,PBMata Atlantica,Schinus terebinthifolia
+PB,Mata Atlantica,PBMata Atlantica,Pterogyne nitens
+PB,Mata Atlantica,PBMata Atlantica,Anadenanthera peregrina
+PB,Mata Atlantica,PBMata Atlantica,Andira fraxinifolia
+PE,Mata Atlantica,PEMata Atlantica,Hymenaea courbaril
+PE,Mata Atlantica,PEMata Atlantica,Bixa orellana
+PE,Mata Atlantica,PEMata Atlantica,Guazuma ulmifolia
+PE,Mata Atlantica,PEMata Atlantica,Cecropia pachystachya
+PE,Mata Atlantica,PEMata Atlantica,Apeiba tibourbou
+PE,Mata Atlantica,PEMata Atlantica,Astronium fraxinifolium
+PE,Mata Atlantica,PEMata Atlantica,Astronium urundeuva
+PE,Mata Atlantica,PEMata Atlantica,Handroanthus impetiginosus
+PE,Mata Atlantica,PEMata Atlantica,Copaifera langsdorffii
+PE,Mata Atlantica,PEMata Atlantica,Enterolobium contortisiliquum
+PE,Mata Atlantica,PEMata Atlantica,Maclura tinctoria
+PE,Mata Atlantica,PEMata Atlantica,Enterolobium timbouva
+PE,Mata Atlantica,PEMata Atlantica,Psidium guajava
+PE,Mata Atlantica,PEMata Atlantica,Senegalia polyphylla
+PE,Mata Atlantica,PEMata Atlantica,Anadenanthera colubrina
+PE,Mata Atlantica,PEMata Atlantica,Senna alata
+PE,Mata Atlantica,PEMata Atlantica,Trema micranthum
+PE,Mata Atlantica,PEMata Atlantica,Handroanthus serratifolius
+PE,Mata Atlantica,PEMata Atlantica,Psidium cattleyanum
+PE,Mata Atlantica,PEMata Atlantica,Handroanthus ochraceus
+PE,Mata Atlantica,PEMata Atlantica,Apuleia leiocarpa
+PE,Mata Atlantica,PEMata Atlantica,Schinus terebinthifolia
+PE,Mata Atlantica,PEMata Atlantica,Pterogyne nitens
+PE,Mata Atlantica,PEMata Atlantica,Cedrela fissilis
+PE,Mata Atlantica,PEMata Atlantica,Andira fraxinifolia
+PI,Cerrado,PICerrado,Aristida longifolia
+PI,Cerrado,PICerrado,Lepidaploa aurea
+PI,Cerrado,PICerrado,Guazuma ulmifolia
+PI,Cerrado,PICerrado,Trachypogon spicatus
+PI,Cerrado,PICerrado,Astronium fraxinifolium
+PI,Cerrado,PICerrado,Astronium urundeuva
+PI,Cerrado,PICerrado,Copaifera langsdorffii
+PI,Cerrado,PICerrado,Enterolobium contortisiliquum
+PI,Cerrado,PICerrado,Hymenaea stigonocarpa
+PI,Cerrado,PICerrado,Machaerium opacum
+PI,Cerrado,PICerrado,Anadenanthera colubrina
+PI,Cerrado,PICerrado,Senna alata
+PI,Cerrado,PICerrado,Terminalia argentea
+PI,Cerrado,PICerrado,Byrsonima cydoniifolia
+PI,Cerrado,PICerrado,Tachigali vulgaris
+PI,Cerrado,PICerrado,Combretum duarteanum
+PI,Cerrado,PICerrado,Terminalia corrugata
+PI,Cerrado,PICerrado,Magonia pubescens
+PI,Cerrado,PICerrado,Handroanthus ochraceus
+PI,Cerrado,PICerrado,Caryocar brasiliense
+PI,Cerrado,PICerrado,Pterogyne nitens
+PI,Cerrado,PICerrado,Tachigali aurea
+PI,Cerrado,PICerrado,Simarouba versicolor
+PI,Cerrado,PICerrado,Dalbergia miscolobium
+PI,Cerrado,PICerrado,Dimorphandra mollis
+PI,Cerrado,PICerrado,Terminalia fagifolia
+PR,Cerrado,PRCerrado,Aristida riparia
+PR,Cerrado,PRCerrado,Vernonanthura polyanthes
+PR,Cerrado,PRCerrado,Schizachyrium sanguineum
+PR,Cerrado,PRCerrado,Guazuma ulmifolia
+PR,Cerrado,PRCerrado,Trachypogon spicatus
+PR,Cerrado,PRCerrado,Astronium urundeuva
+PR,Cerrado,PRCerrado,Copaifera langsdorffii
+PR,Cerrado,PRCerrado,Enterolobium contortisiliquum
+PR,Cerrado,PRCerrado,Senegalia polyphylla
+PR,Cerrado,PRCerrado,Anadenanthera colubrina
+PR,Cerrado,PRCerrado,Senna alata
+PR,Cerrado,PRCerrado,Terminalia argentea
+PR,Cerrado,PRCerrado,Handroanthus ochraceus
+PR,Cerrado,PRCerrado,Caryocar brasiliense
+PR,Cerrado,PRCerrado,Solanum lycocarpum
+PR,Cerrado,PRCerrado,Pterogyne nitens
+PR,Cerrado,PRCerrado,Anadenanthera peregrina
+PR,Cerrado,PRCerrado,Dalbergia miscolobium
+PR,Mata Atlantica,PRMata Atlantica,Hymenaea courbaril
+PR,Mata Atlantica,PRMata Atlantica,Bixa orellana
+PR,Mata Atlantica,PRMata Atlantica,Guazuma ulmifolia
+PR,Mata Atlantica,PRMata Atlantica,Cecropia pachystachya
+PR,Mata Atlantica,PRMata Atlantica,Astronium urundeuva
+PR,Mata Atlantica,PRMata Atlantica,Copaifera langsdorffii
+PR,Mata Atlantica,PRMata Atlantica,Enterolobium contortisiliquum
+PR,Mata Atlantica,PRMata Atlantica,Maclura tinctoria
+PR,Mata Atlantica,PRMata Atlantica,Psidium guajava
+PR,Mata Atlantica,PRMata Atlantica,Senegalia polyphylla
+PR,Mata Atlantica,PRMata Atlantica,Ceiba speciosa
+PR,Mata Atlantica,PRMata Atlantica,Anadenanthera colubrina
+PR,Mata Atlantica,PRMata Atlantica,Senna alata
+PR,Mata Atlantica,PRMata Atlantica,Trema micranthum
+PR,Mata Atlantica,PRMata Atlantica,Handroanthus serratifolius
+PR,Mata Atlantica,PRMata Atlantica,Psidium cattleyanum
+PR,Mata Atlantica,PRMata Atlantica,Handroanthus ochraceus
+PR,Mata Atlantica,PRMata Atlantica,Schizolobium parahyba var. parahyba
+PR,Mata Atlantica,PRMata Atlantica,Apuleia leiocarpa
+PR,Mata Atlantica,PRMata Atlantica,Schinus terebinthifolia
+PR,Mata Atlantica,PRMata Atlantica,Pterogyne nitens
+PR,Mata Atlantica,PRMata Atlantica,Anadenanthera peregrina
+PR,Mata Atlantica,PRMata Atlantica,Cedrela fissilis
+PR,Mata Atlantica,PRMata Atlantica,Syagrus romanzoffiana
+PR,Mata Atlantica,PRMata Atlantica,Andira fraxinifolia
+RJ,Mata Atlantica,RJMata Atlantica,Hymenaea courbaril
+RJ,Mata Atlantica,RJMata Atlantica,Bixa orellana
+RJ,Mata Atlantica,RJMata Atlantica,Guazuma ulmifolia
+RJ,Mata Atlantica,RJMata Atlantica,Cecropia pachystachya
+RJ,Mata Atlantica,RJMata Atlantica,Apeiba tibourbou
+RJ,Mata Atlantica,RJMata Atlantica,Astronium urundeuva
+RJ,Mata Atlantica,RJMata Atlantica,Handroanthus impetiginosus
+RJ,Mata Atlantica,RJMata Atlantica,Copaifera langsdorffii
+RJ,Mata Atlantica,RJMata Atlantica,Enterolobium contortisiliquum
+RJ,Mata Atlantica,RJMata Atlantica,Maclura tinctoria
+RJ,Mata Atlantica,RJMata Atlantica,Mabea fistulifera
+RJ,Mata Atlantica,RJMata Atlantica,Psidium guajava
+RJ,Mata Atlantica,RJMata Atlantica,Senegalia polyphylla
+RJ,Mata Atlantica,RJMata Atlantica,Ceiba speciosa
+RJ,Mata Atlantica,RJMata Atlantica,Anadenanthera colubrina
+RJ,Mata Atlantica,RJMata Atlantica,Senna alata
+RJ,Mata Atlantica,RJMata Atlantica,Trema micranthum
+RJ,Mata Atlantica,RJMata Atlantica,Handroanthus serratifolius
+RJ,Mata Atlantica,RJMata Atlantica,Psidium cattleyanum
+RJ,Mata Atlantica,RJMata Atlantica,Handroanthus ochraceus
+RJ,Mata Atlantica,RJMata Atlantica,Schizolobium parahyba var. parahyba
+RJ,Mata Atlantica,RJMata Atlantica,Apuleia leiocarpa
+RJ,Mata Atlantica,RJMata Atlantica,Schinus terebinthifolia
+RJ,Mata Atlantica,RJMata Atlantica,Pterogyne nitens
+RJ,Mata Atlantica,RJMata Atlantica,Anadenanthera peregrina
+RJ,Mata Atlantica,RJMata Atlantica,Cedrela fissilis
+RJ,Mata Atlantica,RJMata Atlantica,Syagrus romanzoffiana
+RJ,Mata Atlantica,RJMata Atlantica,Andira fraxinifolia
+RN,Mata Atlantica,RNMata Atlantica,Hymenaea courbaril
+RN,Mata Atlantica,RNMata Atlantica,Bixa orellana
+RN,Mata Atlantica,RNMata Atlantica,Guazuma ulmifolia
+RN,Mata Atlantica,RNMata Atlantica,Cecropia pachystachya
+RN,Mata Atlantica,RNMata Atlantica,Apeiba tibourbou
+RN,Mata Atlantica,RNMata Atlantica,Astronium fraxinifolium
+RN,Mata Atlantica,RNMata Atlantica,Astronium urundeuva
+RN,Mata Atlantica,RNMata Atlantica,Handroanthus impetiginosus
+RN,Mata Atlantica,RNMata Atlantica,Copaifera langsdorffii
+RN,Mata Atlantica,RNMata Atlantica,Enterolobium contortisiliquum
+RN,Mata Atlantica,RNMata Atlantica,Senegalia polyphylla
+RN,Mata Atlantica,RNMata Atlantica,Anadenanthera colubrina
+RN,Mata Atlantica,RNMata Atlantica,Senna alata
+RN,Mata Atlantica,RNMata Atlantica,Trema micranthum
+RN,Mata Atlantica,RNMata Atlantica,Handroanthus serratifolius
+RN,Mata Atlantica,RNMata Atlantica,Apuleia leiocarpa
+RN,Mata Atlantica,RNMata Atlantica,Schinus terebinthifolia
+RN,Mata Atlantica,RNMata Atlantica,Pterogyne nitens
+RN,Mata Atlantica,RNMata Atlantica,Andira fraxinifolia
+RO,Amazonia,ROAmazonia,Terminalia tetraphylla
+RO,Amazonia,ROAmazonia,Hymenaea courbaril
+RO,Amazonia,ROAmazonia,Bixa orellana
+RO,Amazonia,ROAmazonia,Guazuma ulmifolia
+RO,Amazonia,ROAmazonia,Apeiba tibourbou
+RO,Amazonia,ROAmazonia,Handroanthus impetiginosus
+RO,Amazonia,ROAmazonia,Schizolobium parahyba var. amazonicum
+RO,Amazonia,ROAmazonia,Mabea fistulifera
+RO,Amazonia,ROAmazonia,Senegalia polyphylla
+RO,Amazonia,ROAmazonia,Spondias mombin
+RO,Amazonia,ROAmazonia,Ceiba speciosa
+RO,Amazonia,ROAmazonia,Senna alata
+RO,Amazonia,ROAmazonia,Trema micranthum
+RO,Amazonia,ROAmazonia,Curatella americana
+RO,Amazonia,ROAmazonia,Samanea tubulosa
+RO,Amazonia,ROAmazonia,Solanum crinitum
+RO,Amazonia,ROAmazonia,Handroanthus serratifolius
+RO,Amazonia,ROAmazonia,Emmotum nitens
+RO,Amazonia,ROAmazonia,Enterolobium schomburgkii
+RO,Amazonia,ROAmazonia,Parkia multijuga
+RO,Amazonia,ROAmazonia,Apuleia leiocarpa
+RO,Amazonia,ROAmazonia,Parkia pendula
+RO,Amazonia,ROAmazonia,Ormosia paraensis
+RO,Amazonia,ROAmazonia,Hymenaea intermedia
+RO,Amazonia,ROAmazonia,Cedrela fissilis
+RO,Amazonia,ROAmazonia,Trattinnickia rhoifolia
+RO,Cerrado,ROCerrado,Aristida riparia
+RO,Cerrado,ROCerrado,Schizachyrium sanguineum
+RO,Cerrado,ROCerrado,Guazuma ulmifolia
+RO,Cerrado,ROCerrado,Trachypogon spicatus
+RO,Cerrado,ROCerrado,Astronium urundeuva
+RO,Cerrado,ROCerrado,Copaifera langsdorffii
+RO,Cerrado,ROCerrado,Loudetiopsis chrysothrix
+RO,Cerrado,ROCerrado,Senegalia polyphylla
+RO,Cerrado,ROCerrado,Dipteryx alata
+RO,Cerrado,ROCerrado,Senna alata
+RO,Cerrado,ROCerrado,Emmotum nitens
+RO,Cerrado,ROCerrado,Terminalia corrugata
+RO,Cerrado,ROCerrado,Magonia pubescens
+RO,Cerrado,ROCerrado,Simarouba versicolor
+RO,Cerrado,ROCerrado,Dalbergia miscolobium
+RO,Cerrado,ROCerrado,Dimorphandra mollis
+RR,Amazonia,RRAmazonia,Terminalia grandis
+RR,Amazonia,RRAmazonia,Terminalia tetraphylla
+RR,Amazonia,RRAmazonia,Hymenaea courbaril
+RR,Amazonia,RRAmazonia,Bixa orellana
+RR,Amazonia,RRAmazonia,Guazuma ulmifolia
+RR,Amazonia,RRAmazonia,Apeiba tibourbou
+RR,Amazonia,RRAmazonia,Spondias mombin
+RR,Amazonia,RRAmazonia,Trema micranthum
+RR,Amazonia,RRAmazonia,Curatella americana
+RR,Amazonia,RRAmazonia,Solanum crinitum
+RR,Amazonia,RRAmazonia,Handroanthus serratifolius
+RR,Amazonia,RRAmazonia,Enterolobium schomburgkii
+RR,Amazonia,RRAmazonia,Apuleia leiocarpa
+RR,Amazonia,RRAmazonia,Parkia pendula
+RR,Amazonia,RRAmazonia,Ormosia paraensis
+RR,Amazonia,RRAmazonia,Hymenaea intermedia
+RR,Amazonia,RRAmazonia,Trattinnickia rhoifolia
+RS,Mata Atlantica,RSMata Atlantica,Bixa orellana
+RS,Mata Atlantica,RSMata Atlantica,Guazuma ulmifolia
+RS,Mata Atlantica,RSMata Atlantica,Cecropia pachystachya
+RS,Mata Atlantica,RSMata Atlantica,Astronium urundeuva
+RS,Mata Atlantica,RSMata Atlantica,Copaifera langsdorffii
+RS,Mata Atlantica,RSMata Atlantica,Enterolobium contortisiliquum
+RS,Mata Atlantica,RSMata Atlantica,Maclura tinctoria
+RS,Mata Atlantica,RSMata Atlantica,Psidium guajava
+RS,Mata Atlantica,RSMata Atlantica,Ceiba speciosa
+RS,Mata Atlantica,RSMata Atlantica,Senna alata
+RS,Mata Atlantica,RSMata Atlantica,Trema micranthum
+RS,Mata Atlantica,RSMata Atlantica,Psidium cattleyanum
+RS,Mata Atlantica,RSMata Atlantica,Apuleia leiocarpa
+RS,Mata Atlantica,RSMata Atlantica,Schinus terebinthifolia
+RS,Mata Atlantica,RSMata Atlantica,Pterogyne nitens
+RS,Mata Atlantica,RSMata Atlantica,Cedrela fissilis
+RS,Mata Atlantica,RSMata Atlantica,Syagrus romanzoffiana
+RS,Mata Atlantica,RSMata Atlantica,Andira fraxinifolia
+SC,Mata Atlantica,SCMata Atlantica,Bixa orellana
+SC,Mata Atlantica,SCMata Atlantica,Guazuma ulmifolia
+SC,Mata Atlantica,SCMata Atlantica,Cecropia pachystachya
+SC,Mata Atlantica,SCMata Atlantica,Astronium urundeuva
+SC,Mata Atlantica,SCMata Atlantica,Enterolobium contortisiliquum
+SC,Mata Atlantica,SCMata Atlantica,Maclura tinctoria
+SC,Mata Atlantica,SCMata Atlantica,Psidium guajava
+SC,Mata Atlantica,SCMata Atlantica,Ceiba speciosa
+SC,Mata Atlantica,SCMata Atlantica,Senna alata
+SC,Mata Atlantica,SCMata Atlantica,Trema micranthum
+SC,Mata Atlantica,SCMata Atlantica,Psidium cattleyanum
+SC,Mata Atlantica,SCMata Atlantica,Schizolobium parahyba var. parahyba
+SC,Mata Atlantica,SCMata Atlantica,Apuleia leiocarpa
+SC,Mata Atlantica,SCMata Atlantica,Schinus terebinthifolia
+SC,Mata Atlantica,SCMata Atlantica,Pterogyne nitens
+SC,Mata Atlantica,SCMata Atlantica,Cedrela fissilis
+SC,Mata Atlantica,SCMata Atlantica,Syagrus romanzoffiana
+SC,Mata Atlantica,SCMata Atlantica,Andira fraxinifolia
+SE,Mata Atlantica,SEMata Atlantica,Hymenaea courbaril
+SE,Mata Atlantica,SEMata Atlantica,Bixa orellana
+SE,Mata Atlantica,SEMata Atlantica,Guazuma ulmifolia
+SE,Mata Atlantica,SEMata Atlantica,Cecropia pachystachya
+SE,Mata Atlantica,SEMata Atlantica,Apeiba tibourbou
+SE,Mata Atlantica,SEMata Atlantica,Astronium fraxinifolium
+SE,Mata Atlantica,SEMata Atlantica,Astronium urundeuva
+SE,Mata Atlantica,SEMata Atlantica,Handroanthus impetiginosus
+SE,Mata Atlantica,SEMata Atlantica,Maclura tinctoria
+SE,Mata Atlantica,SEMata Atlantica,Enterolobium timbouva
+SE,Mata Atlantica,SEMata Atlantica,Psidium guajava
+SE,Mata Atlantica,SEMata Atlantica,Anadenanthera colubrina
+SE,Mata Atlantica,SEMata Atlantica,Trema micranthum
+SE,Mata Atlantica,SEMata Atlantica,Handroanthus serratifolius
+SE,Mata Atlantica,SEMata Atlantica,Psidium cattleyanum
+SE,Mata Atlantica,SEMata Atlantica,Apuleia leiocarpa
+SE,Mata Atlantica,SEMata Atlantica,Schinus terebinthifolia
+SE,Mata Atlantica,SEMata Atlantica,Pterogyne nitens
+SE,Mata Atlantica,SEMata Atlantica,Cedrela fissilis
+SE,Mata Atlantica,SEMata Atlantica,Andira fraxinifolia
+SP,Cerrado,SPCerrado,Aristida riparia
+SP,Cerrado,SPCerrado,Vernonanthura polyanthes
+SP,Cerrado,SPCerrado,Lepidaploa aurea
+SP,Cerrado,SPCerrado,Schizachyrium sanguineum
+SP,Cerrado,SPCerrado,Guazuma ulmifolia
+SP,Cerrado,SPCerrado,Trachypogon spicatus
+SP,Cerrado,SPCerrado,Astronium urundeuva
+SP,Cerrado,SPCerrado,Copaifera langsdorffii
+SP,Cerrado,SPCerrado,Enterolobium contortisiliquum
+SP,Cerrado,SPCerrado,Loudetiopsis chrysothrix
+SP,Cerrado,SPCerrado,Senegalia polyphylla
+SP,Cerrado,SPCerrado,Hymenaea stigonocarpa
+SP,Cerrado,SPCerrado,Dipteryx alata
+SP,Cerrado,SPCerrado,Anadenanthera colubrina
+SP,Cerrado,SPCerrado,Senna alata
+SP,Cerrado,SPCerrado,Terminalia argentea
+SP,Cerrado,SPCerrado,Byrsonima cydoniifolia
+SP,Cerrado,SPCerrado,Tachigali vulgaris
+SP,Cerrado,SPCerrado,Combretum duarteanum
+SP,Cerrado,SPCerrado,Magonia pubescens
+SP,Cerrado,SPCerrado,Handroanthus ochraceus
+SP,Cerrado,SPCerrado,Caryocar brasiliense
+SP,Cerrado,SPCerrado,Solanum lycocarpum
+SP,Cerrado,SPCerrado,Pterogyne nitens
+SP,Cerrado,SPCerrado,Tachigali aurea
+SP,Cerrado,SPCerrado,Anadenanthera peregrina
+SP,Cerrado,SPCerrado,Dalbergia miscolobium
+SP,Cerrado,SPCerrado,Dimorphandra mollis
+SP,Mata Atlantica,SPMata Atlantica,Hymenaea courbaril
+SP,Mata Atlantica,SPMata Atlantica,Bixa orellana
+SP,Mata Atlantica,SPMata Atlantica,Guazuma ulmifolia
+SP,Mata Atlantica,SPMata Atlantica,Cecropia pachystachya
+SP,Mata Atlantica,SPMata Atlantica,Apeiba tibourbou
+SP,Mata Atlantica,SPMata Atlantica,Astronium urundeuva
+SP,Mata Atlantica,SPMata Atlantica,Handroanthus impetiginosus
+SP,Mata Atlantica,SPMata Atlantica,Copaifera langsdorffii
+SP,Mata Atlantica,SPMata Atlantica,Enterolobium contortisiliquum
+SP,Mata Atlantica,SPMata Atlantica,Maclura tinctoria
+SP,Mata Atlantica,SPMata Atlantica,Mabea fistulifera
+SP,Mata Atlantica,SPMata Atlantica,Enterolobium timbouva
+SP,Mata Atlantica,SPMata Atlantica,Psidium guajava
+SP,Mata Atlantica,SPMata Atlantica,Senegalia polyphylla
+SP,Mata Atlantica,SPMata Atlantica,Ceiba speciosa
+SP,Mata Atlantica,SPMata Atlantica,Anadenanthera colubrina
+SP,Mata Atlantica,SPMata Atlantica,Senna alata
+SP,Mata Atlantica,SPMata Atlantica,Trema micranthum
+SP,Mata Atlantica,SPMata Atlantica,Handroanthus serratifolius
+SP,Mata Atlantica,SPMata Atlantica,Psidium cattleyanum
+SP,Mata Atlantica,SPMata Atlantica,Handroanthus ochraceus
+SP,Mata Atlantica,SPMata Atlantica,Schizolobium parahyba var. parahyba
+SP,Mata Atlantica,SPMata Atlantica,Apuleia leiocarpa
+SP,Mata Atlantica,SPMata Atlantica,Schinus terebinthifolia
+SP,Mata Atlantica,SPMata Atlantica,Pterogyne nitens
+SP,Mata Atlantica,SPMata Atlantica,Anadenanthera peregrina
+SP,Mata Atlantica,SPMata Atlantica,Cedrela fissilis
+SP,Mata Atlantica,SPMata Atlantica,Syagrus romanzoffiana
+SP,Mata Atlantica,SPMata Atlantica,Andira fraxinifolia
+TO,Amazonia,TOAmazonia,Terminalia tetraphylla
+TO,Amazonia,TOAmazonia,Hymenaea courbaril
+TO,Amazonia,TOAmazonia,Bixa orellana
+TO,Amazonia,TOAmazonia,Guazuma ulmifolia
+TO,Amazonia,TOAmazonia,Cecropia pachystachya
+TO,Amazonia,TOAmazonia,Apeiba tibourbou
+TO,Amazonia,TOAmazonia,Astronium fraxinifolium
+TO,Amazonia,TOAmazonia,Handroanthus impetiginosus
+TO,Amazonia,TOAmazonia,Mabea fistulifera
+TO,Amazonia,TOAmazonia,Senegalia polyphylla
+TO,Amazonia,TOAmazonia,Spondias mombin
+TO,Amazonia,TOAmazonia,Ceiba speciosa
+TO,Amazonia,TOAmazonia,Senna alata
+TO,Amazonia,TOAmazonia,Trema micranthum
+TO,Amazonia,TOAmazonia,Curatella americana
+TO,Amazonia,TOAmazonia,Samanea tubulosa
+TO,Amazonia,TOAmazonia,Tachigali vulgaris
+TO,Amazonia,TOAmazonia,Solanum crinitum
+TO,Amazonia,TOAmazonia,Handroanthus serratifolius
+TO,Amazonia,TOAmazonia,Enterolobium schomburgkii
+TO,Amazonia,TOAmazonia,Parkia multijuga
+TO,Amazonia,TOAmazonia,Apuleia leiocarpa
+TO,Amazonia,TOAmazonia,Parkia pendula
+TO,Amazonia,TOAmazonia,Hymenaea intermedia
+TO,Amazonia,TOAmazonia,Cedrela fissilis
+TO,Amazonia,TOAmazonia,Copaifera martii
+TO,Cerrado,TOCerrado,Aristida longifolia
+TO,Cerrado,TOCerrado,Lepidaploa aurea
+TO,Cerrado,TOCerrado,Schizachyrium sanguineum
+TO,Cerrado,TOCerrado,Guazuma ulmifolia
+TO,Cerrado,TOCerrado,Trachypogon spicatus
+TO,Cerrado,TOCerrado,Astronium fraxinifolium
+TO,Cerrado,TOCerrado,Astronium urundeuva
+TO,Cerrado,TOCerrado,Copaifera langsdorffii
+TO,Cerrado,TOCerrado,Loudetiopsis chrysothrix
+TO,Cerrado,TOCerrado,Senegalia polyphylla
+TO,Cerrado,TOCerrado,Hymenaea stigonocarpa
+TO,Cerrado,TOCerrado,Dipteryx alata
+TO,Cerrado,TOCerrado,Machaerium opacum
+TO,Cerrado,TOCerrado,Senna alata
+TO,Cerrado,TOCerrado,Terminalia argentea
+TO,Cerrado,TOCerrado,Byrsonima cydoniifolia
+TO,Cerrado,TOCerrado,Tachigali vulgaris
+TO,Cerrado,TOCerrado,Combretum duarteanum
+TO,Cerrado,TOCerrado,Terminalia corrugata
+TO,Cerrado,TOCerrado,Magonia pubescens
+TO,Cerrado,TOCerrado,Handroanthus ochraceus
+TO,Cerrado,TOCerrado,Caryocar brasiliense
+TO,Cerrado,TOCerrado,Tachigali aurea
+TO,Cerrado,TOCerrado,Simarouba versicolor
+TO,Cerrado,TOCerrado,Dalbergia miscolobium
+TO,Cerrado,TOCerrado,Dimorphandra mollis
+TO,Cerrado,TOCerrado,Terminalia fagifolia
