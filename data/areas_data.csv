@@ -1,38 +1,38 @@
-State ,Biome,regionkey,Area,Area_deforested (ha)
-AC,Amazonia,ACAmazonia,"15241169,39",
-AL,Mata Atlantica,ALMata Atlantica,"1444095,5",
-AM,Amazonia,AMAmazonia,"156293232,9",
-AP,Amazonia,APAmazonia,"13872178,97",
-BA,Cerrado,BACerrado,"10024549,69",
-BA,Mata Atlantica,BAMata Atlantica,"10827398,34",
-DF,Cerrado,DFCerrado,"579222,364",
-ES,Mata Atlantica,ESMata Atlantica,"4572991,554",
-GO,Cerrado,GOCerrado,"33579795,24",
-GO,Mata Atlantica,GOMata Atlantica,"544904,508",
-MA,Amazonia,MAAmazonia,"11000353,35",
-MA,Cerrado,MACerrado,"21590259,67",
-MG,Cerrado,MGCerrado,"31737666,89",
-MG,Mata Atlantica,MGMata Atlantica,"23629715,09",
-MS,Cerrado,MSCerrado,"22180423,41",
-MS,Mata Atlantica,MSMata Atlantica,"3715414,185",
-MT,Amazonia,MTAmazonia,"50997131,25",
-MT,Cerrado,MTCerrado,"33807576,71",
-PA,Amazonia,PAAmazonia,"122157140,7",
-PA,Cerrado,PACerrado,"854386,812",
-PB,Mata Atlantica,PBMata Atlantica,"399899,326",
-PE,Mata Atlantica,PEMata Atlantica,"1541299,816",
-PI,Cerrado,PICerrado,"13408282,57",
-PR,Cerrado,PRCerrado,"315325,367",
-PR,Mata Atlantica,PRMata Atlantica,"19530533,59",
-RJ,Mata Atlantica,RJMata Atlantica,"4369408,309",
-RN,Mata Atlantica,RNMata Atlantica,"202024,487",
-RO,Amazonia,ROAmazonia,"23412634,36",
-RO,Cerrado,ROCerrado,"274699,399",
-RR,Amazonia,RRAmazonia,"22342181,38",
-RS,Mata Atlantica,RSMata Atlantica,"8783541,167",
-SC,Mata Atlantica,SCMata Atlantica,"9462974,152",
-SE,Mata Atlantica,SEMata Atlantica,"1209959,401",
-SP,Cerrado,SPCerrado,"4621995,504",
-SP,Mata Atlantica,SPMata Atlantica,"20217340,21",
-TO,Amazonia,TOAmazonia,"2487987,333",
-TO,Cerrado,TOCerrado,"25409338,41",
+State,Biome,regionkey,Area,area_potential
+AC,Amazonia,ACAmazonia,15241169.39,"2468670,523"
+AL,Mata Atlantica,ALMata Atlantica,1444095.5,"948258,4207"
+AM,Amazonia,AMAmazonia,156293232.9,"3792304,169"
+AP,Amazonia,APAmazonia,13872178.97,"299616,0972"
+BA,Cerrado,BACerrado,10024549.69,"3488250,244"
+BA,Mata Atlantica,BAMata Atlantica,10827398.34,"4545529,419"
+DF,Cerrado,DFCerrado,579222.364,"211928,7273"
+ES,Mata Atlantica,ESMata Atlantica,4572991.554,"2208208,155"
+GO,Cerrado,GOCerrado,33579795.24,"18810415,95"
+GO,Mata Atlantica,GOMata Atlantica,544904.508,"306675,7857"
+MA,Amazonia,MAAmazonia,11000353.35,"5595973,816"
+MA,Cerrado,MACerrado,21590259.67,"5922708,95"
+MG,Cerrado,MGCerrado,31737666.89,"13786674,1"
+MG,Mata Atlantica,MGMata Atlantica,23629715.09,"12289874,82"
+MS,Cerrado,MSCerrado,22180423.41,"13362894,32"
+MS,Mata Atlantica,MSMata Atlantica,3715414.185,"2061534,52"
+MT,Amazonia,MTAmazonia,50997131.25,"20030805,42"
+MT,Cerrado,MTCerrado,33807576.71,"14163032,09"
+PA,Amazonia,PAAmazonia,122157140.7,"24500157,77"
+PA,Cerrado,PACerrado,854386.812,"507780,0894"
+PB,Mata Atlantica,PBMata Atlantica,399899.326,"187020,18"
+PE,Mata Atlantica,PEMata Atlantica,1541299.816,"759852,138"
+PI,Cerrado,PICerrado,13408282.57,"2434411,356"
+PR,Cerrado,PRCerrado,315325.367,"129551,6981"
+PR,Mata Atlantica,PRMata Atlantica,19530533.59,"9386905,62"
+RJ,Mata Atlantica,RJMata Atlantica,4369408.309,"2018621,586"
+RN,Mata Atlantica,RNMata Atlantica,202024.487,"93162,91628"
+RO,Amazonia,ROAmazonia,23412634.36,"9780095,142"
+RO,Cerrado,ROCerrado,274699.399,"53086,04017"
+RR,Amazonia,RRAmazonia,22342181.38,"4347392,076"
+RS,Mata Atlantica,RSMata Atlantica,8783541.167,"4073837,25"
+SC,Mata Atlantica,SCMata Atlantica,9462974.152,"2698376,998"
+SE,Mata Atlantica,SEMata Atlantica,1209959.401,"605358,7131"
+SP,Cerrado,SPCerrado,4621995.504,"2437067,52"
+SP,Mata Atlantica,SPMata Atlantica,20217340.21,"9644163,932"
+TO,Amazonia,TOAmazonia,2487987.333,"1922884,762"
+TO,Cerrado,TOCerrado,25409338.41,"9527866,874"

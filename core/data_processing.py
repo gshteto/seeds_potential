@@ -1,5 +1,3 @@
-# core/data_processing.py
-
 import pandas as pd
 
 def clean_number(num_str: str) -> float:
@@ -77,32 +75,77 @@ def merge_stock_and_kg_per_ha(df_species_req: pd.DataFrame, df_stock_combined: p
     return df_merged
 
 def load_area_data(area_csv: str) -> pd.DataFrame:
+    """
+    Load area data which now has 'area_potential' column.
+    We'll clean 'area_potential' as well.
+    """
     df = pd.read_csv(area_csv, sep=",")
-    df['Area'] = df['Area'].astype(str).apply(clean_number)
+    # If you still need the old 'Area' column, keep or remove as needed.
+    # For demonstration, we'll just ensure 'area_potential' is cleaned:
+    if 'area_potential' in df.columns:
+        df['area_potential'] = df['area_potential'].astype(str).apply(clean_number)
     return df
 
 def distribute_stock(df_merged: pd.DataFrame,
                      df_region_areas: pd.DataFrame,
                      use_species_count: bool = True,
-                     use_relative_area: bool = True) -> pd.DataFrame:
+                     use_relative_area: bool = True,
+                     use_area_potential: bool = False) -> pd.DataFrame:
+    """
+    Distributes stock among (STATE, BIOME, regionkey) for each species.
+
+    Now supports EITHER using 'Area' OR 'area_potential' (if use_area_potential = True).
+
+    Steps:
+      1. Merge stock/species data into region_areas.
+      2. Group by 'Specie' to find:
+         - CountAppearances (number of rows for that species)
+         - SumArea or SumAreaPotential (depending on the chosen column)
+      3. If use_species_count -> divide Combined_Stock by CountAppearances.
+      4. If use_relative_area -> multiply allocated_stock by (areaColumn / sumOfThatArea).
+      5. possible_ha_distributed = allocated_stock / kg/ha.
+    """
+
+    # Decide which column to use
+    area_col = "area_potential" if use_area_potential else "Area"
+
+    # 1) Merge
     df_dist = pd.merge(df_region_areas, df_merged, on='Specie', how='left')
 
+    # 2) Group to find appearances and sum of the chosen area column
     grp = df_dist.groupby('Specie', as_index=False).agg({
         'STATE': 'count',
-        'Area': 'sum'
+        area_col: 'sum'
     })
-    grp.rename(columns={'STATE': 'CountAppearances', 'Area': 'SumArea'}, inplace=True)
+
+    # Rename columns
+    grp.rename(columns={
+        'STATE': 'CountAppearances',
+        area_col: 'SumArea'
+    }, inplace=True)
+
+    # Merge back
     df_dist = pd.merge(df_dist, grp, on='Specie', how='left')
 
+    # Fill missing Combined_Stock
     df_dist['Combined_Stock'] = df_dist['Combined_Stock'].fillna(0)
+
+    # Base allocated_stock
     df_dist['allocated_stock'] = df_dist['Combined_Stock']
 
+    # 3) Divide by species count if requested
     if use_species_count:
         df_dist['allocated_stock'] = df_dist['allocated_stock'] / df_dist['CountAppearances']
-    if use_relative_area:
-        df_dist['allocated_stock'] = df_dist['allocated_stock'] * (df_dist['Area'] / df_dist['SumArea'])
 
+    # 4) Multiply by area ratio if requested
+    if use_relative_area:
+        df_dist['allocated_stock'] = df_dist['allocated_stock'] * (
+            df_dist[area_col] / df_dist['SumArea']
+        )
+
+    # 5) possible hectares
     df_dist['Possible_ha_distributed'] = df_dist['allocated_stock'] / df_dist['kg/ha']
+
     return df_dist
 
 def compute_threshold_factor(df_distributed: pd.DataFrame, n_species: int = 5) -> pd.DataFrame:
