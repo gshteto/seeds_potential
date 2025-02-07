@@ -138,7 +138,7 @@ def main():
     # 6) On-Demand Map Generation
     # --------------------------
     if st.button("Show Map"):
-        st.subheader("Map: Colored by Number of Plantable Species per Biome")
+        st.subheader("Map: Colored by number of plantable species per biome")
         deck = build_choropleth_map(config.GEOJSON_FILE, df_map)
         st.pydeck_chart(deck)
 
