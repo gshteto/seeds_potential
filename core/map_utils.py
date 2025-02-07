@@ -60,7 +60,8 @@ def build_choropleth_map(geojson_path: str, df_map):
 
     tooltip = {
         "html": "<b>regionkey:</b> {regionkey}<br/>"
-                "<b>Threshold_ha:</b> {threshold_ha}",
+                "<b>Threshold_ha:</b> {threshold_ha}"
+                "<b>Plantable speices:<b> {species_count}",
         "style": {"backgroundColor": "white", "color": "black"}
     }
 
