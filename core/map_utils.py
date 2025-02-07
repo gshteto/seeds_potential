@@ -48,6 +48,10 @@ def build_choropleth_map(geojson_path: str, df_map):
         th_val = th_dict.get(rk, None)
         props["threshold_ha"] = round(th_val, 1) if th_val is not None else None
 
+         # Add species_count to properties for tooltip
+        props["species_count"] = sc_val if sc_val is not None else "N/A"
+
+
     layer = pdk.Layer(
         "GeoJsonLayer",
         geojson_data,
